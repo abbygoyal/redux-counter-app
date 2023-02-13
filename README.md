@@ -1,4 +1,4 @@
-## REDUX-COUNTER
+## REDUX-COUNTER-APP
 
 small demo project of React Redux on Counter
 
