@@ -1,8 +1,10 @@
-## PORTFOLIO
-self introduction portfolio
+## REDUX-COUNTER
+
+small demo project of React Redux on Counter
 
 ## Live Project Link
-[Abhishek Portfolio Project](https://abhishek-goyal-portfolio.netlify.app/)
+
+[Redux Counter App](https://abhishek-goyal-portfolio.netlify.app/)
 
 # How to fork and clone
 
@@ -13,7 +15,6 @@ You can see the fork button in the top right corner of every GitHub project; cli
 ![alt text](https://i.ibb.co/1YN7SJ6/Screen-Shot-2019-07-01-at-2-02-40-AM.png "image to fork button")
 
 After forking the project, simply clone it the way you would from the new forked project in your own GitHub repository and you can commit and push to it freely.
-
 
 # After you fork and clone:
 
