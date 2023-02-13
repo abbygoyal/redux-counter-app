@@ -1,10 +1,10 @@
 ## REDUX-COUNTER-APP
 
-small demo project of React Redux on Counter
+Small demo project of React Redux on Counter
 
 ## Live Project Link
 
-[Redux Counter App](https://abhishek-goyal-portfolio.netlify.app/)
+[Redux Counter App](https://redux-counter-apppp.netlify.app/)
 
 # How to fork and clone
 
