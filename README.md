@@ -1,6 +1,6 @@
 ## REDUX-COUNTER-APP
 
-Small demo project of React Redux on Counter
+Small demo project of React Redux on Counter.
 
 ## Live Project Link
 
